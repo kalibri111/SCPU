@@ -1,0 +1,1 @@
+/usr/bin/cc -g -fno-omit-frame-pointer -fsanitize=address   CMakeFiles/soft_proc.dir/main.c.o CMakeFiles/soft_proc.dir/lib/filestuff.c.o CMakeFiles/soft_proc.dir/lib/stack.c.o  -o soft_proc 

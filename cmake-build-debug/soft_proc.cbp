@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="soft_proc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="soft_proc">
+				<Option output="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/soft_proc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 soft_proc"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="soft_proc/fast">
+				<Option output="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/soft_proc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 soft_proc/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/compiler/translator.h">
+			<Option target="soft_proc"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/lib/filestuff.c">
+			<Option target="soft_proc"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/lib/filestuff.h">
+			<Option target="soft_proc"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/lib/stack.c">
+			<Option target="soft_proc"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/lib/stack.h">
+			<Option target="soft_proc"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/main.c">
+			<Option target="soft_proc"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/soft_processor/commands.h">
+			<Option target="soft_proc"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/soft_processor/proc.h">
+			<Option target="soft_proc"/>
+		</Unit>
+		<Unit filename="/home/kalibri/MIPT/1_sem/Dedinsky/soft_proc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

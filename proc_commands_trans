@@ -1,0 +1,23 @@
+push - 1
+pop  - 2
+add  - 3
+mul  - 4
+div  - 5
+
+
+rax  - 7
+rcx  - 8
+rdx  - 9
+rbx  - 10
+
+poprax - 11
+poprcx - 12
+poprdx - 13
+poprbx - 14
+
+out - 15
+
+halt - 16
+
+1 1
+2

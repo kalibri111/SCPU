@@ -1,0 +1,7 @@
+push 1
+push 2
+add
+pop 0
+prax
+out
+halt
